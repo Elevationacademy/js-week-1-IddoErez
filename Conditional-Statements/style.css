@@ -1,0 +1,203 @@
+/* #parent {
+    display: inline-block;
+    background-color: blue;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .child {
+    background-color: red;
+  }
+  
+  #child-1 {
+    position: absolute;
+    width: 300px;
+    height: 20px;   
+    top: 50px;
+  }
+  
+  #child-2 {
+    position: absolute;
+    height: 300px;
+    width: 20px;
+    left: 50px;
+  }
+   */
+
+   /* #background {
+    background-color: mediumpurple;
+    height: 150px;
+    width: 300px;
+    position: relative;
+  }
+  
+  .text {
+    color: black;
+    font-family: sans-serif;
+  }
+  
+  #money {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+  }
+  
+  #time {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
+  
+  .bar {
+    width: 20px;
+    background-color: darkgrey;
+    bottom: 10px;
+  }
+  
+  #bar-1 {
+    height: 20px;
+    position: absolute;
+    left: 10px;
+  }
+  
+  #bar-2 {
+    height: 70px;
+    position: absolute;
+    left: 50px;
+  }
+  
+  #bar-3 {
+    height: 100px;
+    position: absolute;
+    left: 90px;
+  }
+  
+  #bar-4 {
+    height: 85px;
+    position: absolute;
+    left: 130px;
+  }
+  
+  #bar-5 {
+    height: 75px;
+    position: absolute;
+    left: 170px;
+  }
+  
+  #bar-6 {
+    height: 50px;
+    position: absolute;
+    left: 210px;
+  }
+  --- */
+  /* #black-background {
+    background-color: black;
+    width: 485px;
+    height:250px;
+    position: relative;
+  
+  }
+
+  .bar {
+    background-color: #66320E;
+    height: 115px;
+    width: 115px;
+        
+  }
+  
+  #bar-1 {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+  }
+  
+   #bar-2 {
+    position: absolute;
+    left: 125px;
+    top: 5px;
+  }
+  
+  #bar-3 {
+    position: absolute;
+    left: 245px;
+    top: 5px;
+  }
+  
+ #bar-4 {
+    position: absolute;
+    left: 365px;
+    top: 5px;
+  }
+  
+  #bar-5 {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+  }
+
+#bar-6 {
+    position: absolute;
+    bottom: 5px;
+    left: 125px;
+}
+
+#bar-7 {
+    position: absolute;
+    bottom: 5px;
+    left: 245px;
+}
+
+#middle-bar {
+   height: 6px;
+   width: 475px;
+   top: 122px;
+   left: 6px;
+   background-color: darkred;
+   position: absolute;
+}
+ */
+ #chocolate {
+    background-color: black;
+    display: inline-block;
+    padding: 4px;
+  }
+  
+  #middle {
+    background-color: darkred;
+    height: 5px;
+    width: 385px;
+    margin-top: 6x;
+    margin-bottom: 6px;
+  }
+  
+  .block {
+    background-color: #66320E;
+    width:90px;
+    height: 90px;
+    margin: 3px;
+  }
+  
+  #block-1 {
+    float: right;
+  }
+
+  #block-2 {
+    float: right;
+  }
+  
+  #block-3 {
+    float: right;
+  }
+  
+  #block-5 {
+    float: left;
+  }
+
+  #block-6 {
+      float: left;
+  }
+  #block-7 {
+      float: left;
+  }
+  
