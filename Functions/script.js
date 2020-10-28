@@ -1,87 +1,87 @@
-// // const tellAJoke = function () {
-// //     console.log("something funny")
-// // }
-// // // tellAJoke()
-// // // const greet =function(name) {
-// // //     console.log("Helll there, " + name)
-// // // }
-// // // greet("Idodo")
-// // // const mmm ="1 1 1"
-// // // greet(mmm)
-// // // const names = ["Mr. Woods", "Sir Newton", "Lady Gamora", "Her Highness Kayla", "Master Shen", "Squire Carl", "The Eternal Brittany"]
+// const tellAJoke = function () {
+//     console.log("something funny")
+// }
+// tellAJoke()
+// const greet =function(name) {
+//     console.log("Helll there, " + name)
+// }
+// greet("Idodo")
+// const mmm ="1 1 1"
+// greet(mmm)
+//  const names = ["Mr. Woods", "Sir Newton", "Lady Gamora", "Her Highness Kayla", "Master Shen", "Squire Carl", "The Eternal Brittany"]
 
-// // // for(let n of names){
-// // //   greet(n)
-// // // }
-// // // const greet = function(name, timeOfDay){
-// // //     console.log("Good " + timeOfDay + ", " + name)
-// // //   }
+// for(let n of names){
+//   greet(n)
+// }
+// const greet = function(name, timeOfDay){
+//     console.log("Good " + timeOfDay + ", " + name)
+//   }
   
-// // //   //calling the function
+//   //calling the function
 
 
-// // // let today = new Date();
-// // // hour = today.getHours() + 6
-// // // if (hour>=5 && hour<12){
-// // //     timeOfDay = "Morning"
-// // // } 
-// // // else if (hour>=12 && hour <18) {
-// // //   timeOfDay ="AFternoon"
-// // // }
-// // // else {
-// // //     timeOfDay = "Evening"
-// // // }
-// // //  greet("Momo", timeOfDay)
+// let today = new Date();
+// hour = today.getHours() + 6
+// if (hour>=5 && hour<12){
+//     timeOfDay = "Morning"
+// } 
+// else if (hour>=12 && hour <18) {
+//   timeOfDay ="AFternoon"
+// }
+// else {
+//     timeOfDay = "Evening"
+// }
+//  greet("Momo", timeOfDay)
 
 
-// // // //     const createUser = function(name, age){
-// // // //     const user = {name: name, age: age}
-// // // //     console.log(user)
-// // // //   }
+//     const createUser = function(name, age){
+//     const user = {name: name, age: age}
+//     console.log(user)
+//   }
 
-// // // //   for (i = 1; i < 11; i++) { 
-// // // //    nameOfUser = prompt("Enter your name please")
-// // // //    ageOfUser =prompt("Enter your age please")
-// // // //    createUser (nameOfUser, ageOfUser)
-// // // //  }
+//   for (i = 1; i < 11; i++) { 
+//    nameOfUser = prompt("Enter your name please")
+//    ageOfUser =prompt("Enter your age please")
+//    createUser (nameOfUser, ageOfUser)
+//  }
 
-// // //  const growOld = function(user){
-// // //     user.age++
-// // //   }
+//  const growOld = function(user){
+//     user.age++
+//   }
   
-// // //   const aDude = {name:"Ayd Ood", age: 33}
-// // //   growOld(aDude)
+//   const aDude = {name:"Ayd Ood", age: 33}
+//   growOld(aDude)
   
-// // //   console.log(aDude)
+//   console.log(aDude)
 
-// //   const greet = function(name){
-// //     console.log("Hello, " + name)
-// //   }
+//   const greet = function(name){
+//     console.log("Hello, " + name)
+//   }
   
-// //   const growOld = function(user){
-// //     user.age++
-// //   }
+//   const growOld = function(user){
+//     user.age++
+//   }
   
   
-// // //   greet("doron", "momo") // prints "Hello, undefined"
-// // //   growOld() // throws an error
+// //   greet("doron", "momo") // prints "Hello, undefined"
+// //   growOld() // throws an error
 
-// //   const changeArray = function(arr){
-// //     let innerArray = arr
-// //     innerArray[5] = 77
-// //   }
+//   const changeArray = function(arr){
+//     let innerArray = arr
+//     innerArray[5] = 77
+//   }
   
-// //   const numbers = [1, 2, 3, 4, 5 ,6]
+//   const numbers = [1, 2, 3, 4, 5 ,6]
   
-// //   changeArray(numbers)
-// //   console.log(numbers) // prints [50, 2, 3]
+//   changeArray(numbers)
+//   console.log(numbers) // prints [50, 2, 3]
 
-// // //   const add = function(x, y){
-// // //     return (x + y)
-// // //   }
+//   const add = function(x, y){
+//     return (x + y)
+//   }
   
-// // //   const sum = add(1, 2)
-// // //   console.log(sum) // prints 3 !
+//   const sum = add(1, 2)
+//   console.log(sum) // prints 3 !
 // const getInterest = function(money){
 //     return money * 0.2
 //   }
@@ -95,16 +95,16 @@
 //   const debt = getDebt(borrowedMoney)
 //   console.log(debt) 
 
-// //   greet() //works without a problem
-// // greetExpression() //throws an error
+//   greet() //works without a problem
+// greetExpression() //throws an error
 
-// // function greet(){
-// //   console.log("Hello there, from the wild, wild West")
-// // }
+// function greet(){
+//   console.log("Hello there, from the wild, wild West")
+// }
 
-// // const greetExpression = function(){
-// //   console.log("Uh oh")
-// // }
+// const greetExpression = function(){
+//   console.log("Uh oh")
+// }
 
 // const person = {
 //     name: "Julius",
@@ -194,7 +194,7 @@
 // }
 // splice(arr, 0,1)
 // console.log(arr)
-//----------------------------------------------------------
+// ----------------------------------------------------------
 // add 1 element
 // let arr = [1,2,3]
 // const splice = function(arr, startIndex, numOfDeletes, NumToEnter){
@@ -210,7 +210,7 @@
 // }
 // splice(arr,0,0,-1,0); 
 // console.log(arr); //should be [-1,0,1,2,3]
-//-----------------------------------------------------------
+// -----------------------------------------------------------
 
 // // replace 1 element
 // arr = [1,2,3]
@@ -219,19 +219,131 @@
 // }
 // splice(arr,1,1,55); 
 // console.log(arr); //should be [1,55,3] 
-//---------------------------------------------------
-// arr = [1,2,3,4,5]
-// const splice = function(arr, startIndexToDeleteAll){
-//  arr.splice(startIndexToDeleteAll)
-//  }
-//  splice(arr,1); 
-// console.log(arr); //should be [1] 
-//--------------------------------------------------
+// ---------------------------------------------------
+// arr = [1,2,3]
+//  const splice = function(arr, startIndexToDeleteAll){
+//   return(arr.splice(startIndexToDeleteAll))
+//   }
+//   splice(arr,1); 
+// console.log(arr); //should be [1] sol
+// // //--------------------------------------------------
 // returns array of deleted elements
+// arr = [1,2,3]
+// const splice = function(arr, startIndex){
+//   let deleted = arr.splice(startIndex, 2)
+//    return (deleted)
+//   }
+//  let deleted = splice(arr,1);
+// console.log(deleted); //should be [2,3] 
+// // // ------------------------------------------------
+// // returns an array of the deleted element (1 element)
+// arr = [1,2,3]
+// const splice = function(arr, startIndex , homManyToDelete){
+//   return(arr.splice(startIndex, homManyToDelete))
+//  }
+// deleted = splice(arr,1,1);  
+// console.log(deleted); //should be [2] 
+// ------------------------------------------------------
+// returns an empty array when no elements are deleted
+// arr = [1,2,3]
+// const splice = function(arr, startIndex , homManyToDelete, whatToAdd){
+//    let deleted = arr.splice(startIndex, homManyToDelete, whatToAdd)
+//    return (deleted)
+//  }
+// deleted = splice(arr,1,0,5); 
+// console.log(deleted); //should be [] 
+// --------------------------------------------------------------------
+
+// remove 1 element
+// let arr = [1,2,3]
+// Array.prototype.splice = function(startIndex, howManyToRemove){
+//   let redundant = this.slice(startIndex, startIndex + howManyToRemove)
+//   let temp = this.slice(0,startIndex).concat(this.slice(startIndex + howManyToRemove))
+//   this.length= 0
+//   this.push.apply(this, temp)
+//   }
+// arr.splice(0,1); 
+// console.log(arr); //should be [2,3]
+// --------------------------------------------------
+// let arr = [1,2,3]
+// Array.prototype.splice = function(startIndex, howManyToRemove){
+//   let redundant = this.slice(startIndex, startIndex + howManyToRemove)
+//   let temp = this.slice(0,startIndex).concat(this.slice(startIndex + howManyToRemove))
+//   this.length= 0
+//   this.push.apply(this, temp)
+//   }
+// arr.splice(0,1); 
+// console.log(arr); //should be [2,3]
+// -----------------------------------------------------------
+// let arr = [1,2,3]
+// Array.prototype.splice = function(startIndex, howManyToRemove, whatToAdd){
+//   let temp = this.slice(0,startIndex).concat(this.slice(startIndex + howManyToRemove))
+//   this.length= 0
+//   this.unshift(whatToAdd)
+//   this.push.apply(this, temp) 
+//   }
+// // add 1 element
+// arr.splice(0,0,0);
+// console.log(arr); //should be [0,1,2,3]
+// ------------------------------------------------------------------------------
+// replace 1 element
+// arr = [1,2,3]
+// Array.prototype.splice = function(startIndex, howManyToRemove, whatToAdd){
+//   let temp = this.slice(0,startIndex).concat(whatToAdd)
+//   let temp2 = temp.concat(this.slice(startIndex + howManyToRemove))
+//   this.length= 0
+//   this.push.apply(this, temp2) 
+// }  
+// arr.splice(1,1,55)
+// console.log(arr)
+// //should be [1,55,3] 
+// ------------------------------------------------------------------------
+// delete all elements from index to end
+// arr = [1,2,3,4,5]
+// Array.prototype.splice = function(startIndex){
+//  let redundant = arr.slice(startIndex)
+//  let temp = arr.slice(0,startIndex)
+//  arr.length =0
+//  arr.push.apply(arr, temp)
+//  }
+// arr.splice(1); 
+// console.log(arr); //should be [1] 
+// //------------------------------------------------------------
+// returns array of deleted elements
+// arr = [1,2,3]
+
+//   Array.prototype.splice = function(startIndex){
+//      let deleted = this.slice(startIndex)
+//     return (deleted)
+//     }
+//    let deleted = arr.splice(1);    
+// console.log(deleted); //should be [2,3] 
+// - ---------------------------------------------
+// returns an array of the deleted element (1 element)
+// arr = [1,2,3]
+//  Array.prototype.splice = function(startIndex, untilWhereToRemove){
+//      let deleted = this.slice(startIndex, startIndex + untilWhereToRemove)
+//      return (deleted)
+//     }
+// deleted = arr.splice(1,1); 
+// console.log(deleted); //should be [2] 
+// --------------------------------------------------------
+// returns an empty array when no elements are deleted
 arr = [1,2,3]
-const splice = function(arr, startIndex){
-   return(arr.slice(startIndex))
-  }
-let deleted = splice(arr,1); 
-console.log(deleted); //should be [2,3] 
-//------------------------------------------------
+Array.prototype.splice = function(startIndex, HowManyToRemove, numToAdd){
+  let deleted = this.slice(startIndex + HowManyToRemove +numToAdd)
+      return (deleted)
+    }
+deleted = arr.splice(1,0,5); 
+console.log(deleted); //should be [] 
+
+
+
+
+
+
+
+
+
+
+
